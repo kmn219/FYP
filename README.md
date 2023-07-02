@@ -14,3 +14,6 @@ on literature. It is then validated in simulation on a basic single phase model,
 the system with no noise present. The impacts of noise are discussed. Finally, a signal injection device topology based on small- signal current and voltage injection
 is proposed, exploring the possible implementation using available technologies.
 
+## Repository Structure
+
+The code folder contains the MATLAB scripts and Simulink models used for this project, including the [Simplus Grid Tool](https://github.com/Future-Power-Networks/Simplus-Grid-Tool) developed as part of a PhD thesis by Yue Zhu in the EEE Department at Imperial College London. You can find the interim report, outlining the intial project goals in the project management folder.
